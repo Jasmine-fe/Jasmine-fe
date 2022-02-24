@@ -17,19 +17,19 @@
 
 - <h4 align="left">Data Analysis</h4>
 
-  - Taipei Tourist Spot
-  - Taipei MRT
-  - Airbnb
+  - [Taipei Tourist Spot](https://github.com/Jasmine-fe/Taipei_Tourist_Spot)
+  - [Taipei MRT](https://github.com/Jasmine-fe/Taipei_MRT)
+  - [Airbnb](https://github.com/Jasmine-fe/Airbnb)
 - <h4 align="left">Machine Learning</h4>
 
-  - A Perfect Job Fit
+  - [A Perfect Job Fit](https://github.com/Jasmine-fe/A_Perfect_Job_Fit)
 - <h4 align="left">Algorithm</h4>
 
-  - Genome Repeat Finding Tool (Python)
+  - [Genome Repeat Finding Tool (Python)](https://github.com/Jasmine-fe/Genome_Repeat_Finding_Tool)
 - <h4 align="left">Web Development</h4>
 
-  - Chat Channel (frontend - React, backend - Firebase)
-  - Cloud Gaming Platform - Client (frontend - Angular) + PortalServer (backend - Node.js)
+  - [Chat Channel (frontend - React, backend - Firebase)](https://github.com/Jasmine-fe/Chat_Channel)
+  - Cloud Gaming Platform - [Client (frontend - Angular)](https://github.com/Jasmine-fe/Client) + [PortalServer (backend - Node.js)](https://github.com/Jasmine-fe/Portal_Server)
 
 ---
 
