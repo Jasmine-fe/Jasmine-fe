@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Jasmine-fe?tab=repositories)
 - 📝 I regularly write articles on [Medium](https://medium.com/@jasmine880809)
-- 📄 Know about my experiences - [Linkedin](https://www.linkedin.com/in/jia-min-li-jasmine/)
+- 📄 Know about my experiences - [Linkedin](https://www.linkedin.com/in/jasmine1999/)
 
 ---
 
@@ -45,13 +45,13 @@
 <h3 align="left">Skill</h3>
 
 - Data Analysis & Machiine Learning
-  - Analysis tool: Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />, including Pandas <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />, seaborn <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
+  - Analysis tool: Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />, Pandas <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />, seaborn <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
   - Machine Learning: Tensorflow <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />, Scikit-Learn <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />, PyTorch <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />, LangChain <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.24.0/files/dark/langchain-color.png" alt="langchain" width="40" height="40" />
 
 - Cloud Service
   - Google Cloud Platform (GCP) <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
   - Amazon Web Services (AWS) <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40" />
-  - Azure <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> [cite: 19, 20]
+  - Azure <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" width="40" height="40" />
 
 - Web
   - HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />, CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />, JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />, TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
@@ -60,6 +60,5 @@
   - Database: MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />, Postgresql <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
 
 - Other
-  - C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   - Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  - Airflow <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="airflow" width="40" height="40" /> [cite: 19, 20]
+  - Airflow <img src="https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png" alt="airflow" width="40" height="40" />
